@@ -6,6 +6,7 @@ Includes
 * SQL Statements
 
 ## SQL File
+![SQL File] (https://github.com/MickieBlair/SQL-Final-Project-City-Jail/blob/master/SQLFinalproject.sql)
 
 
 ## Final Project Description
